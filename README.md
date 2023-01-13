@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I am Leonardo Nacache from Santiago, Chile. Aeronautical Engineer and student of Data Science. Always learning new things, ready for discussions and making new projects, etc.
+I am Leonardo Nacache from Santiago, Chile.
+
+**Aeronautical Engineer** and student of **Data Science**.
+
+Always learning new things, ready for discussions and making new projects, etc.
+
 
 ### Programming Languages 🌐
 
