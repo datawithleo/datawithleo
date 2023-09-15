@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Nacache</h1>
-<h3 align="center">Aeronautical Engineer and Data Science Student, with the perseverance and curiosity needed to build solutions that make you see, value and recognize the real science behind the numbers and data. I enjoy the constant learning of new technologies that make it easier for us to perform tasks quickly, allowing me to generate neurological reasoning. Competitiveness, Commitment, Responsibility are my fundamental qualities.</h3>
+<h3 align="center">Aeronautical Engineer and Data Analyst, with the perseverance and curiosity needed to build solutions that make you see, value and recognize the real science behind the numbers and data.
+I enjoy the constant learning of new technologies that make it easier for us to perform tasks quickly, allowing me to generate neurological reasoning.
+Competitiveness, Commitment, and Responsibility are my fundamental qualities.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
